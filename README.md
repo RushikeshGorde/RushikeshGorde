@@ -48,8 +48,8 @@ Explore the full potential of NextPort Sepia and enjoy a more streamlined and se
 
 ## 💡 Skills
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Frameworks**: React, Django, Spring
+- **Languages**: Python, JavaScript, Java, C++, C, DSA, MySQL ,MongoDB
+- **Frameworks**: React, Django, Spring-boot, Next.js, Express.js, 
 - **Tools**: Git, Docker, Kubernetes
 
 ## 📈 GitHub Stats
@@ -66,7 +66,7 @@ Explore the full potential of NextPort Sepia and enjoy a more streamlined and se
 
 Feel free to reach out if you're interested in collaboration or just want to connect!
 
-- 🌍 [Website](https://rushikeshgorde.github.io/RushiGorde/)
+- 🌍 [Website](https://nextport-sepia.vercel.app/)
 
 
 ---
