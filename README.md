@@ -13,8 +13,34 @@ Hello! I'm Rushikesh Gorde, a passionate developer and tech enthusiast. Here's a
 Here are some of my featured projects:
 
 ### 🌐 Web Development
-- **[Project 1](#)**: Description of project 1.
-- **[Project 2](#)**: Description of project 2.
+- **[Project 1](Ms dhoni Tribute page)**:MS Dhoni Fan Website
+This project is a dedicated fan website for Mahendra Singh Dhoni, one of the most celebrated cricketers in the world. The site is built using modern web development technologies to provide an engaging and informative experience for fans. Key features include:
+
+Biography: Detailed biography of MS Dhoni, covering his early life, cricket career, achievements, and personal milestones.
+Career Statistics: Comprehensive statistics of Dhoni’s cricket career, including match performances, records, and milestones.
+Photo Gallery: A curated gallery of high-quality images from various stages of Dhoni's career, capturing iconic moments.
+News and Updates: Latest news and updates related to MS Dhoni, including match reports, interviews, and announcements.
+Fan Interaction: Interactive sections where fans can leave messages, share their favorite moments, and participate in polls.
+Responsive Design: Optimized for various devices, ensuring a seamless experience whether accessed on a desktop, tablet, or mobile.
+Technologies used: HTML, CSS, JavaScript, React, Node.js.
+
+Visit the MS Dhoni Fan Website to explore more!.
+- **[Project 2](Self Portfolio)**:NextPort Sepia
+Self Portfolio is an innovative web application designed to streamline and enhance your browsing experience. Built with a modern tech stack and a user-centric approach, it offers a range of features to optimize web navigation and content consumption.
+
+Key Features:
+Intuitive Interface: A clean and responsive design that ensures seamless interaction across all devices.
+Personalized Experience: Customizable settings to tailor the browsing experience according to individual preferences.
+Efficient Navigation: Advanced tools for quick access to frequently visited sites and efficient tab management.
+Enhanced Security: Robust security measures to protect user data and privacy.
+Technologies Used:
+Frontend: React.js for a dynamic and interactive user interface.
+Backend: Node.js and Express for a scalable and efficient server-side application.
+Database: MongoDB for flexible and scalable data storage.
+Deployment: Vercel for easy and reliable deployment and hosting.
+Explore the full potential of NextPort Sepia and enjoy a more streamlined and secure browsing experience!
+
+.
 
 ### 🖥️ Software Development
 - **[Project 3](#)**: Description of project 3.
